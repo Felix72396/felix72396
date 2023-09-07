@@ -1,16 +1,17 @@
-### Hi there 👋
+# PROFILE
 
-<!--
-**Felix72396/felix72396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ABOUT ME
+> I'm Félix. A passionate developer focused on fullstack development. I'm always looking forward to facing challenges in a creative and positive way.
 
-Here are some ideas to get you started:
+## TECHNOLOGIES
+* HTML
+* CSS
+* BOOTSTRAP
+* JAVASCRIPT
+* TYPESCRIPT
+* C#
+* PHP
+* MS SQL SERVER
+* MYSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
