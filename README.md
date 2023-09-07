@@ -17,7 +17,7 @@
 * MYSQL
 ---
 
-#SOCIALS
+# SOCIALS
 - [LINKEDIN](https://www.linkedin.com/in/felix-paniagua-3b7a439a/)
 - [INSTAGRAM]([https://www.linkedin.com/in/felix-paniagua-3b7a439a/](https://www.instagram.com/paniaguafelix/)https://www.instagram.com/paniaguafelix/)
 - [FACEBOOK]([https://www.linkedin.com/in/felix-paniagua-3b7a439a/](https://www.facebook.com/fpg72396)https://www.facebook.com/fpg72396)
